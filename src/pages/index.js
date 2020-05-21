@@ -1,7 +1,13 @@
 import React from "react"
 
+import Layout from "../components/layout"
+
 const IndexPage = () => {
-  return <h1>Hi there</h1>
+  return (
+    <Layout>
+      I am a good-looking page, right?
+    </Layout>
+  )
 }
 
 export default IndexPage
