@@ -20,7 +20,7 @@ const StyledFooter = styled.footer`
 const Footer = () => (
   <StyledFooter>
     <a
-      href="https://github.com/konstantinmuenster?tab=repositories"
+      href="https://github.com/konstantinmuenster/how-to-gatsby-portfolio"
       target="_blank"
       rel="nofollow noopener noreferrer"
       aria-label="External Link"
