@@ -3,7 +3,7 @@ This is a simplified version of my personal website.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT) [![Netlify Status](https://api.netlify.com/api/v1/badges/3fd031e6-d734-4de2-bcb4-0c083fe667af/deploy-status)](https://app.netlify.com/sites/how-to-gatsby-portfolio/deploys)
 
-I've build this tiny little clone as a demo project for my Medium article: **How to Built a Portfolio with Gatsby - from Scratch to Deployment** (*link follows*)
+I've build this tiny little clone as a demo project for my Medium article: [**How to Built a Portfolio with Gatsby - from Scratch to Deployment**](https://medium.com/@konstantin.muenster/how-to-build-a-portfolio-with-gatsby-from-scratch-to-deployment-cacbf7a1527)
 
 [👏 Live Demo](https://how-to-gatsby-portfolio.netlify.app/)
 
